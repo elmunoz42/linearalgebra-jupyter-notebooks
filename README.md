@@ -1,0 +1,3 @@
+# Linear Algebra for ML course
+
+Python, Numpy, Jupyter, Linear Algebra study...
